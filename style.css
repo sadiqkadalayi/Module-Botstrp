@@ -1,0 +1,28 @@
+
+.nav-main {
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.user-sign {
+    background-color: rgb(243, 238, 238);
+    padding: 6px 16px 6px 16px;
+    border: 1px solid none;
+    border-radius: 5px;
+    color: black;
+}
+
+.user-sign a {
+    color: black;
+}
+
+.user-sign i {
+    margin-right: 5px;
+}
+
+.nav-color {
+    color: black;
+}
